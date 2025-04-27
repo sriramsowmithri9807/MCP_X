@@ -1,5 +1,5 @@
 # MCP_X
-# Twitter MCP Server
+# X(Formely Twitter) MCP Server
 
 A Model Context Protocol (MCP) server implementation that provides seamless integration with Twitter/X API, allowing AI models to interact with Twitter functionalities through a standardized interface.
 
